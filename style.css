@@ -1,0 +1,31 @@
+#fea{
+    display: flex;
+}
+.icongif{
+    padding-right: 20px;
+    height: 60px;
+    width: 70px;
+}
+/* feature2 */
+.secondfea{
+    background-color: rgb(239, 239, 239);
+    padding: 40px;
+    /* border-radius: 20px; */
+    /* margin: 5px; */
+}
+.secondfea:hover{
+    background-color: aliceblue;
+}
+#secondfeature1{
+    border-top-left-radius: 60px;
+
+}
+#secondfeature2{
+    
+}
+#secondfeature3{
+    border-bottom-right-radius: 60px;
+}
+#iconbackground{
+    background-color: aquamarine;
+}
